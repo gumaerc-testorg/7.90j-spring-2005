@@ -3,8 +3,13 @@ content_type: resource
 description: 'This resource covers the topics: Bayesian networks and causality, Causal
   and non-causal probability models, Simple causal models, and Large scale molecular
   interaction models.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-90j-computational-functional-genomics-spring-2005/68211af711e9ca4dcc191cb46d2626c2_lecture_16.pdf
+file: /media/courses/7-90j-computational-functional-genomics-spring-2005/68211af711e9ca4dcc191cb46d2626c2_lecture_16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_16.pdf
 uid: 68211af7-11e9-ca4d-cc19-1cb46d2626c2

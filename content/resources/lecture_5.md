@@ -7,8 +7,13 @@ description: 'THis resource covers: Transcriptional Regulatory Pathways, Transcr
   Abundance, CGH and SNP analysis, Transcriptional Regulation of Yeast Cell Cycle,
   Glucose Homeostasis and Type 2 Diabetes, Genome-Scale Location Analysis in Human
   Tissues, Hu13K Promoter Chip, and Selected HNF1a Targets in Human Hepatocytes, etc.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-90j-computational-functional-genomics-spring-2005/b06403228be6bdca6e7cff1e1ed07375_lecture_5.pdf
+file: /media/courses/7-90j-computational-functional-genomics-spring-2005/b06403228be6bdca6e7cff1e1ed07375_lecture_5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_5.pdf
 uid: b0640322-8be6-bdca-6e7c-ff1e1ed07375

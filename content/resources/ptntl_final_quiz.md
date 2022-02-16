@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains 10 problem statements based on the subject, that
   were asked in the final quiz.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-90j-computational-functional-genomics-spring-2005/e176b08a6ece44f4cbf3eecc51aac17f_ptntl_final_quiz.pdf
+file: /media/courses/7-90j-computational-functional-genomics-spring-2005/e176b08a6ece44f4cbf3eecc51aac17f_ptntl_final_quiz.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: ptntl_final_quiz.pdf
 uid: e176b08a-6ece-44f4-cbf3-eecc51aac17f

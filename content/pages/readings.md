@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: e666c999-612a-5af5-7bd4-dc4ab279f22b
 ---
@@ -57,7 +60,7 @@ Durbin, R., S. R. Eddy, A. Krogh, and G. Mitchison. _Biological Sequence Analysi
 {{< tdopen >}}
 Finding Regulatory Sequences in DNA: Motif Discovery
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Hughes, et al. _Journal of Molecular Biology_ 296, no. 5 (2000): 1205-14.
 {{< tdclose >}}
 

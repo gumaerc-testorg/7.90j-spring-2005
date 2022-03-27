@@ -42,9 +42,9 @@ Data ([ZIP - 1.9 MB]({{< baseurl >}}/resources/ps2_data)) (The ZIP file contains
 
 Code Diagram ([JPG]({{< baseurl >}}/resources/ps2_code_diagram))
 
-Bound ORFs ([FA](/courses/biology/7-90j-computational-functional-genomics-spring-2005/assignments/rcs1_bound_orfs.fa))
+Bound ORFs ([FA]({{< baseurl >}}/resources/rcs1_bound_orfs))
 
-Revised Load Sequences ([M](/courses/biology/7-90j-computational-functional-genomics-spring-2005/assignments/revised_load_seqs.m))
+Revised Load Sequences ([M]({{< baseurl >}}/resources/revised_load_seqs))
 
 
 {{< tdclose >}}

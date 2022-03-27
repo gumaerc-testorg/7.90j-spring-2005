@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 28387ff8-9bfd-15b4-cd44-f1edafcf1cbd
 resourcetype: Image
 title: ps2_code_diagram.jpg
 uid: 679493fc-9abc-916f-fdc9-dbee522a460d

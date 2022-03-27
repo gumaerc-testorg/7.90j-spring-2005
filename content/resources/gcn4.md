@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: b5191284-36e4-6ecb-6665-db16b63f76e1
 resourcetype: Document
 title: gcn4.pdf
 uid: 0e49c7aa-6f41-f6dd-8439-41c4302d53d1

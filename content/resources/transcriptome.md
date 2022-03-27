@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: b5191284-36e4-6ecb-6665-db16b63f76e1
 resourcetype: Document
 title: transcriptome.pdf
 uid: 8e21d51c-5d06-754b-52d7-b824f305f98e

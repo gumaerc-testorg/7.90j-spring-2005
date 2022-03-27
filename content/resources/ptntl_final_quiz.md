@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 05cb2fb1-427a-e834-53a1-0c0a64e9766d
 resourcetype: Document
 title: ptntl_final_quiz.pdf
 uid: e176b08a-6ece-44f4-cbf3-eecc51aac17f

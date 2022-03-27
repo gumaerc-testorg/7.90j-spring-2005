@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: b5191284-36e4-6ecb-6665-db16b63f76e1
 resourcetype: Document
 title: phylogenomics.pdf
 uid: 7d0f0606-ffa0-19d4-bedf-6bb5bb46d1cb

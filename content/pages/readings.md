@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: Readings section contains a topic-wise list of readings used in the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: e666c999-612a-5af5-7bd4-dc4ab279f22b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -132,7 +137,7 @@ Eisen, et al. "Cluster Analysis and Display of Genome-wide Expression Patterns."
 
 Liao, et al. "Network Component Analysis: Reconstruction of Regulatory Signals in Biological Systems." _PNAS_ 100, no. 26 (2003).
 
-Dueck and Frey. "Probabilistic Sparse Matrix Factorization." Technical report, University of Toronto, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pdfs.semanticscholar.org/5604/264b7e470c87dbb19be713a1c9bce2852b5c.pdf))
+Dueck and Frey. "Probabilistic Sparse Matrix Factorization." Technical report, University of Toronto, 2004. ([PDF](https://pdfs.semanticscholar.org/5604/264b7e470c87dbb19be713a1c9bce2852b5c.pdf))
 
 
 {{< tdclose >}}

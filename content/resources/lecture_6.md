@@ -7,6 +7,7 @@ file: /courses/7-90j-computational-functional-genomics-spring-2005/7a7a7f5667d96
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource explains: Expression Arrays, Normalization, and Error Models. It also covers the following topics: Normalization, Differential expression, and References.
-

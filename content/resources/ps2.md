@@ -6,6 +6,7 @@ file: /courses/7-90j-computational-functional-genomics-spring-2005/967c3ba43e410
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains 2 problems that deal with motif-finding, and the yeast transcription factor RCS1.
-

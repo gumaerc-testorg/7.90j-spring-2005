@@ -7,6 +7,7 @@ file: /courses/7-90j-computational-functional-genomics-spring-2005/bfacab59364b2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource covers: Simple motifs - analysis, Hyper-geometric distribution, Motif models - three estimation problems, Mixtures and the EM algorithm, and some problems related to the topic.
-

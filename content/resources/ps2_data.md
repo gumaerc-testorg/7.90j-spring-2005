@@ -5,6 +5,7 @@ file: /courses/7-90j-computational-functional-genomics-spring-2005/a686219e3ccdc
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting file containing data for problem set 2.
-

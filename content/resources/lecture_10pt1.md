@@ -9,6 +9,7 @@ file: /courses/7-90j-computational-functional-genomics-spring-2005/553b30230b22f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource explains the example of clustering expression data. It includes the following topics: orderingResults ?hand generated data, Problem Definition, Discovering new types of cancer, Lymphochip, Data sources, Lymphochipcluster, DLBCL subtypes visible, Feature discovery, DLBCL vs. normal B-lymphocyte differentiation, Distinct DLBCL groups by gene expression profiling etc.
-

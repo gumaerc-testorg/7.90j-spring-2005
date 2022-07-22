@@ -9,6 +9,7 @@ file: /courses/7-90j-computational-functional-genomics-spring-2005/89b3b48dc4dcf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource covers: Pairwise Alignment, Dot Plots, Two possible models, A Probabilistic Model of Alignment, The Odds Ratio Statistic, Substitution Matrix, Needleman-Wunsch(global), Smith-Waterman (Local Alignment), Classical Approach: Extreme Value Distribution, Building Phylogenetic Trees, Parsimony-based Phylogenetic Trees, etc.
-

@@ -11,6 +11,7 @@ file: /courses/7-90j-computational-functional-genomics-spring-2005/b06403228be6b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -25,4 +26,3 @@ video_metadata:
 ---
 THis resource covers: Transcriptional Regulatory Pathways, Transcription of Protein-Coding Genes, DNA Hybridization, DNA Microarray, Synthesis of Labeled Target From mRNA, Measuring Relative Target
 Abundance, CGH and SNP analysis, Transcriptional Regulation of Yeast Cell Cycle, Glucose Homeostasis and Type 2 Diabetes, Genome-Scale Location Analysis in Human Tissues, Hu13K Promoter Chip, and Selected HNF1a Targets in Human Hepatocytes, etc.
-

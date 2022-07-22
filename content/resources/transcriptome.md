@@ -6,6 +6,7 @@ file: /courses/7-90j-computational-functional-genomics-spring-2005/8e21d51c5d067
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Student project report on "Modeling the Human Transcriptome using Factor Analysis".
-

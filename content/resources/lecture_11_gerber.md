@@ -11,6 +11,7 @@ file: /courses/7-90j-computational-functional-genomics-spring-2005/258d5e347f696
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains class notes from the guest lecture by Georg Gerber. It majorly discusses the following topics: Expression and Binding Data, Protein-DNA Binding Data, Limitations of Binding Data Alone, Limitations of Expression Data Alone, The Genetic RegulAtoryModules (GRAM) Algorithm, GRAM Algorithm Overview, Rich Media Gene Modules Network Results, GRAM Network Validation, Rapamycin Modules Network, Doing Computational Biology Research: Practical Take-aways, Algorithmic Details, Results for the Fkh1/2 Knockout.
-

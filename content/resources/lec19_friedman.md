@@ -8,6 +8,7 @@ file: /courses/7-90j-computational-functional-genomics-spring-2005/55753016e87a0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource covers approaches for getting the biological insight from the biological data. It basically covers the following topics: What is a model?, Model Components, Model relationships, How can we inject biological knowledge into our model?, Protein-protein interactions, etc.
-

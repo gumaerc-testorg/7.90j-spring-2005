@@ -9,6 +9,7 @@ file: /courses/7-90j-computational-functional-genomics-spring-2005/5b006f07470c7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 This problem set reviews a simple maximum likelihood method to estimate per-chip scaling factors for normalization of expression array data, using spiked-in controls with known quantities. There is only one problem, but we expect an answer for each sentence or clause that begins with the words, "Write down..." Please include the full derivations of all work formulae written, not just the final answer.
-

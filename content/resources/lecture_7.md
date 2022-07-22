@@ -7,6 +7,7 @@ file: /courses/7-90j-computational-functional-genomics-spring-2005/2a973d6f56ecd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource covers: Clustering, Hierarchical clustering, Mixture models and clustering, Mixture models and partial profiles, Latent processes and matrix decomposition, etc.
-

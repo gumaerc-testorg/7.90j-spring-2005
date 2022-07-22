@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: 'Syllabus includes the following basic information about the course:
+  Course Description, Course Outline, Team Project, Assignments, and Quizzes.'
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 212d0bfa-be06-7dd3-562f-fdf45c78f87d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

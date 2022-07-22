@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: Related resources contains some useful links related to the subject,
+  which provide additional materials for better understanding of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 5bd62c1e-7903-c014-9205-e9fb933d71a1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Related Links

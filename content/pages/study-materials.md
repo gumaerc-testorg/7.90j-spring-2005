@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: Study materials includes supplementary readings and a sample version
+  of the final quiz.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 05cb2fb1-427a-e834-53a1-0c0a64e9766d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This page includes supplementary readings and a sample version of the [final quiz](#smpl_quiz).
@@ -62,4 +70,4 @@ Yang, Yee Hwa, Sandrine Dudoit, Percy Luu, David M. Lin, Vivian Peng, John Ngai,
 {{< anchor "smpl_quiz" >}}{{< /anchor >}}Sample Quiz
 ----------------------------------------------------
 
-Potential version of Final Quiz ([PDF]({{< baseurl >}}/resources/ptntl_final_quiz))
+Potential version of Final Quiz ({{% resource_link e176b08a-6ece-44f4-cbf3-eecc51aac17f "PDF" %}})

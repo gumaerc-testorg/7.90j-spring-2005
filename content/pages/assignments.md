@@ -74,7 +74,7 @@ Problem Set 4 ({{% resource_link da60fb6b-7be8-eb2f-7c88-908079796c1d "PDF" %}})
 
 Code and Data ({{% resource_link 567d133a-e7b8-710d-ff54-ba2aa444bdaf "ZIP" %}}) (The ZIP contains: 1 .ps file, 1 .pdf file, 2 .mat files, and 11 .m files.)
 
-[Bayes Net Toolbox (BNT) for MATLAB®](http://bnt.sourceforge.net/)
+{{% resource_link "10c1fa39-0542-4d43-8b20-b3d27ff7991c" "Bayes Net Toolbox (BNT) for MATLAB®" %}}
 
 
 {{< tdclose >}}

@@ -137,7 +137,7 @@ Eisen, et al. "Cluster Analysis and Display of Genome-wide Expression Patterns."
 
 Liao, et al. "Network Component Analysis: Reconstruction of Regulatory Signals in Biological Systems." _PNAS_ 100, no. 26 (2003).
 
-Dueck and Frey. "Probabilistic Sparse Matrix Factorization." Technical report, University of Toronto, 2004. ([PDF](https://pdfs.semanticscholar.org/5604/264b7e470c87dbb19be713a1c9bce2852b5c.pdf))
+Dueck and Frey. "Probabilistic Sparse Matrix Factorization." Technical report, University of Toronto, 2004. ({{% resource_link "c56b66b5-0f9d-42e4-b8c8-605342d1fcb0" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -151,7 +151,7 @@ Dueck and Frey. "Probabilistic Sparse Matrix Factorization." Technical report, U
 Computational Functional Genomics
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction to SVD](https://math.dartmouth.edu/~m56s13/Southworth_proj.pdf)
+{{% resource_link "ac26b62c-474b-4878-8cf5-bcf45cd26fe3" "Introduction to SVD" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +249,7 @@ Hartemink, Alex. "Principled Computational Methods for the Validation and Discov
 RNA Silencing
 {{< tdclose >}}
 {{< tdopen >}}
-Cooper, G. F., and E. Herskovits. "[A Bayesian Method for the Induction of Probabilistic Networks from Data](http://smi-web.stanford.edu/pubs/SMI_Abstracts/SMI-91-0355.html)." KSL-91-02 (Knowledge Systems Laboratory, Stanford University), November 1993.
+Cooper, G. F., and E. Herskovits. "{{% resource_link "1165928f-4abd-4c7a-866e-6090ea15b771" "A Bayesian Method for the Induction of Probabilistic Networks from Data" %}}." KSL-91-02 (Knowledge Systems Laboratory, Stanford University), November 1993.
 {{< tdclose >}}
 
 {{< trclose >}}

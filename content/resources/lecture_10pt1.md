@@ -6,6 +6,7 @@ description: 'This resource explains the example of clustering expression data. 
   subtypes visible, Feature discovery, DLBCL vs. normal B-lymphocyte differentiation,
   Distinct DLBCL groups by gene expression profiling etc.'
 file: /courses/7-90j-computational-functional-genomics-spring-2005/553b30230b22fda3a8219a20d5409838_lecture_10pt1.pdf
+file_size: 238635
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

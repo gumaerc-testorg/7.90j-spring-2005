@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file containing data for problem set 2.
 file: /courses/7-90j-computational-functional-genomics-spring-2005/a686219e3ccdcfa896f79eb594d1eefe_ps2_data.zip
+file_size: 1949509
 file_type: application/zip
 learning_resource_types:
 - Assignments

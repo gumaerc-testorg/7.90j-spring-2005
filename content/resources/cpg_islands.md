@@ -3,6 +3,7 @@ content_type: resource
 description: 'Student project report on "CpG Islands: A Potential Role in Chromatin
   Modification".'
 file: /courses/7-90j-computational-functional-genomics-spring-2005/082ac8317c84bda5e8e91ec9f07a2aa6_cpg_islands.pdf
+file_size: 596581
 file_type: application/pdf
 learning_resource_types:
 - Projects

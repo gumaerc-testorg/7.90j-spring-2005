@@ -4,6 +4,7 @@ description: This resource covers basic classification approaches, including dec
   estimation, and variable selection. It also covers some examples and some more advanced
   methods.
 file: /courses/7-90j-computational-functional-genomics-spring-2005/b6bdb454828ab501dc02e58d04ac4750_lecture_10pt2.pdf
+file_size: 515375
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

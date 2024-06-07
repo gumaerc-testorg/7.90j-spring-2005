@@ -8,6 +8,7 @@ description: 'This resource contains class notes from the guest lecture by Georg
   Network, Doing Computational Biology Research: Practical Take-aways, Algorithmic
   Details, Results for the Fkh1/2 Knockout.'
 file: /courses/7-90j-computational-functional-genomics-spring-2005/258d5e347f6960c6cb7d97cbcb54e8ae_lecture_11_gerber.pdf
+file_size: 2434719
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

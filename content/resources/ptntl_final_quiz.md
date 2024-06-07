@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains 10 problem statements based on the subject, that
   were asked in the final quiz.
 file: /courses/7-90j-computational-functional-genomics-spring-2005/e176b08a6ece44f4cbf3eecc51aac17f_ptntl_final_quiz.pdf
+file_size: 65937
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

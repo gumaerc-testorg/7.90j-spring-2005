@@ -4,6 +4,7 @@ description: 'This resource describes structure and function of the genome and c
   the following topics: Chromosomes, Human Genome, Comparative Genomics, Genes and
   their Products, Stem Cells.'
 file: /courses/7-90j-computational-functional-genomics-spring-2005/a3894c2d730bc32e306b9130cfb6fe10_lecture_1.pdf
+file_size: 642207
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

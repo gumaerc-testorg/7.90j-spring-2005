@@ -6,6 +6,7 @@ description: 'This resource covers the following topics: The Model Spectrum, Com
   Regulatory Network, Human Cell Cycle Regulation, Human Cell Cycle Transcriptional
   Regulation, etc.'
 file: /courses/7-90j-computational-functional-genomics-spring-2005/c60c2e113e062d0b6ac8b61c7a9e81e1_lecture_14.pdf
+file_size: 714445
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

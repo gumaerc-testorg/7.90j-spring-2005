@@ -5,6 +5,7 @@ description: 'This resource covers approaches for getting the biological insight
   Model Components, Model relationships, How can we inject biological knowledge into
   our model?, Protein-protein interactions, etc.'
 file: /courses/7-90j-computational-functional-genomics-spring-2005/55753016e87a0bf4812447539e546d08_lec19_friedman.pdf
+file_size: 14133
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

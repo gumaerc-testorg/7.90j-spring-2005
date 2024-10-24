@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the code diagram that is used in problem set 2.
-file: /courses/7-90j-computational-functional-genomics-spring-2005/679493fc9abc916ffdc9dbee522a460d_ps2_code_diagram.jpg
+file: /ol-ocw-studio-app/courses/7-90j-computational-functional-genomics-spring-2005/679493fc9abc916ffdc9dbee522a460d_ps2_code_diagram.jpg
 file_size: 37983
 file_type: image/jpeg
 image_metadata:

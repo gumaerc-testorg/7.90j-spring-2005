@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: Readings section contains a topic-wise list of readings used in the course.
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -11,389 +12,214 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part 1: Using DNA Sequence to Explain Mechanism**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Course Introduction
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Pairwise Alignment
-{{< tdclose >}}
-{{< tdopen >}}
-Durbin, R., S. R. Eddy, A. Krogh, and G. Mitchison. _Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids._ Cambridge, UK: Cambridge University Press, 1999. ISBN: 9780521629713.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Durbin, R., S. R. Eddy, A. Krogh, and G. Mitchison. *Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids.* Cambridge, UK: Cambridge University Press, 1999. ISBN: 9780521629713.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Finding Regulatory Sequences in DNA: Motif Discovery
-{{< tdclose >}}
-{{< tdopen rowspan="2" >}}
-Hughes, et al. _Journal of Molecular Biology_ 296, no. 5 (2000): 1205-14.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen rowspan="2" >}}
+Hughes, et al. *Journal of Molecular Biology* 296, no. 5 (2000): 1205-14.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Finding Regulatory Sequences in DNA: Motif Discovery (cont.)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part 2: Observing the Mechanism of Transcriptional Regulation**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Microarray Technology
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Qun Pan, et al. "Revealing Global Regulatory Features of Mammalian Alternative Splicing Using a Quantitative Microarray Platform." *Molecular Cell* 16 (December 22, 2004): 929–941.
 
-Qun Pan, et al. "Revealing Global Regulatory Features of Mammalian Alternative Splicing Using a Quantitative Microarray Platform." _Molecular Cell_ 16 (December 22, 2004): 929–941.
+Wen Zhang, et al. "The Functional Landscape of Mouse Gene Expression." *Journal of Biology* (2004): 3:21.
 
-Wen Zhang, et al. "The Functional Landscape of Mouse Gene Expression." _Journal of Biology_ (2004): 3:21.
+Tong Ihn Lee, et al. "Transcriptional Regulatory Networks in Saccharomyces *Cerevisiae*." *Science* (2002).
 
-Tong Ihn Lee, et al. "Transcriptional Regulatory Networks in Saccharomyces _Cerevisiae_." _Science_ (2002).
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Expression Arrays, Normalization, and Error Models
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Hwa Yang, Yee, et al., "Normalization for cDNA Microarray Data: A Robust Composite Method for Addressing Single and Multiple Slide Systematic Variation." *Nucleic Acid Research* 30, no. 4 (2002).
 
-Hwa Yang, Yee, et al., "Normalization for cDNA Microarray Data: A Robust Composite Method for Addressing Single and Multiple Slide Systematic Variation." _Nucleic Acid Research_ 30, no. 4 (2002).
+Newton, et al. "On Differential Variability of Expression Ratios: Improving Statistical Inference about Gene Expression Changes from Microarray Data." *Journal of Computational Biology* 8, no. 1 (2001).
 
-Newton, et al. "On Differential Variability of Expression Ratios: Improving Statistical Inference about Gene Expression Changes from Microarray Data." _Journal of Computational Biology_ 8, no. 1 (2001).
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Expression Profiles, Clustering, and Latent Processes
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Eisen, et al. "Cluster Analysis and Display of Genome-wide Expression Patterns." *PNAS* 95, no. 25 (1998).
 
-Eisen, et al. "Cluster Analysis and Display of Genome-wide Expression Patterns." _PNAS_ 95, no. 25 (1998).
-
-Liao, et al. "Network Component Analysis: Reconstruction of Regulatory Signals in Biological Systems." _PNAS_ 100, no. 26 (2003).
+Liao, et al. "Network Component Analysis: Reconstruction of Regulatory Signals in Biological Systems." *PNAS* 100, no. 26 (2003).
 
 Dueck and Frey. "Probabilistic Sparse Matrix Factorization." Technical report, University of Toronto, 2004. ([PDF](https://pdfs.semanticscholar.org/5604/264b7e470c87dbb19be713a1c9bce2852b5c.pdf))
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Computational Functional Genomics
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 [Introduction to SVD](https://math.dartmouth.edu/~m56s13/Southworth_proj.pdf)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Stem Cells and Transcriptional Regulation
-{{< tdclose >}}
-{{< tdopen >}}
-Dor, Y., J. Brown, O. Martinez, and D. A. Melton. "Adult Pancreatic Beta-cells are Formed by Self-duplication Rather Than Stem-cell Differentiation." _Nature_ 429, no. 6987 (2004): 41-6.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Dor, Y., J. Brown, O. Martinez, and D. A. Melton. "Adult Pancreatic Beta-cells are Formed by Self-duplication Rather Than Stem-cell Differentiation." *Nature* 429, no. 6987 (2004): 41-6.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Part One: An Example of Clustering Expression Data
 
 Part Two: Computational Functional Genomics (cont.)
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
+Alizadeh, et. al. "Distinct Types of Diffuse Large B-cell Lymphoma Identified by Gene Expression Profiling." *Nature* 403 (February 2000).
 
+Ramalho-Santos, et. al. "Stemness: Transcriptional Profiling of Embryonic and Adult Stem Cells." *Science* 298 (October 2002).
 
-Alizadeh, et. al. "Distinct Types of Diffuse Large B-cell Lymphoma Identified by Gene Expression Profiling." _Nature_ 403 (February 2000).
+Ivanova, et. al. "A Stem Cell Molecular Signature." *Science* 298 (October 2002).
 
-Ramalho-Santos, et. al. "Stemness: Transcriptional Profiling of Embryonic and Adult Stem Cells." _Science_ 298 (October 2002).
+- Fortunel, et al. "Comment on" 'Stemness': Transcriptional Profiling of Embryonic and Adult Stem Cells," and "A Stem Cell Molecular Signature"." *Science* 302, no. 5644 (2003): 393.
+- Evsikov, et al. "Comment on" 'Stemness': Transcriptional Profiling of Embryonic and Adult Stem Cells," and "A Stem Cell Molecular Signature"." *Science* 302, no. 5644 (2003):393.
+- Ivanova, N. B., et al. "Response to Comments on" 'Stemness': Transcriptional Profiling of Embryonic and Adult Stem Cells," and "A Stem Cell Molecular Signature"." *Science* 302, no. 5644 (2003): 393.
 
-Ivanova, et. al. "A Stem Cell Molecular Signature." _Science_ 298 (October 2002).
+Vogel. "'Stemness' Genes Still Elusive." *Science* 302 (October 2003).
 
-*   Fortunel, et al. "Comment on" 'Stemness': Transcriptional Profiling of Embryonic and Adult Stem Cells," and "A Stem Cell Molecular Signature"." _Science_ 302, no. 5644 (2003): 393.
-*   Evsikov, et al. "Comment on" 'Stemness': Transcriptional Profiling of Embryonic and Adult Stem Cells," and "A Stem Cell Molecular Signature"." _Science_ 302, no. 5644 (2003):393.
-*   Ivanova, N. B., et al. "Response to Comments on" 'Stemness': Transcriptional Profiling of Embryonic and Adult Stem Cells," and "A Stem Cell Molecular Signature"." _Science_ 302, no. 5644 (2003): 393.
-
-Vogel. "'Stemness' Genes Still Elusive." _Science_ 302 (October 2003).
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Project Group Meetings
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Project Group Initial Presentations
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Computational Discovery of Regulatory Networks
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Heckerman, David. "A Tutorial on Learning with Bayesian Networks." Microsoft Technical Report MSR-TR-95-06 (1996).
 
 Hartemink, Alex. "Principled Computational Methods for the Validation and Discovery of Genetic Regulatory Networks." MIT PhD Thesis (2001).
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 RNA Silencing
-{{< tdclose >}}
-{{< tdopen >}}
-Cooper, G. F., and E. Herskovits. "[A Bayesian Method for the Induction of Probabilistic Networks from Data](http://smi-web.stanford.edu/pubs/SMI_Abstracts/SMI-91-0355.html)." KSL-91-02 (Knowledge Systems Laboratory, Stanford University), November 1993.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< tdopen >}}
+Cooper, G. F., and E. Herskovits. "[A Bayesian Method for the Induction of Probabilistic Networks from Data](https://link.springer.com/article/10.1007/BF00994110)." KSL-91-02 (Knowledge Systems Laboratory, Stanford University), November 1993.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part 3: Building Predictive Network Models of Transcriptional Regulation**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Computational Functional Genomics (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Li, et al., "A Map of the Interactome Network of the Metazoan *C. elegans*." *Science* 303 (January 2004).
 
-Li, et al., "A Map of the Interactome Network of the Metazoan _C. elegans_." _Science_ 303 (January 2004).
+Giot, et al. "A Protein Interaction Map of *Drosophila melanogaster*." *Science* 302 (December 2003).
 
-Giot, et al. "A Protein Interaction Map of _Drosophila melanogaster_." _Science_ 302 (December 2003).
+Gavin, et al. "Functional Organization of the Yeast Proteome by Systematic Analysis of Protein Complexes." *Nature* 415 (January 2002).
 
-Gavin, et al. "Functional Organization of the Yeast Proteome by Systematic Analysis of Protein Complexes." _Nature_ 415 (January 2002).
+Ho, et al. "Systematic Identification of Protein Complexes in *Sacchormyces Cerevisiae* by Mass Spectrometry." *Nature* 415 (January 2002).
 
-Ho, et al. "Systematic Identification of Protein Complexes in _Sacchormyces Cerevisiae_ by Mass Spectrometry." _Nature_ 415 (January 2002).
+Tong, Lesage, et al. "Global Mapping of the Yeast Genetic Interaction Network." *Science* 303 (February 2004).
 
-Tong, Lesage, et al. "Global Mapping of the Yeast Genetic Interaction Network." _Science_ 303 (February 2004).
+Phizicky, Bastiaens, Zhu, Snyder, and Fields. "Protein Analysis on a Proteomic Scale." *Nature* 422 (March 2003).
 
-Phizicky, Bastiaens, Zhu, Snyder, and Fields. "Protein Analysis on a Proteomic Scale." _Nature_ 422 (March 2003).
+von Mering, et al. "Comparative Assessment of Large-scale Data Sets of Protein-protein Interactions." *Nature* 417 (May 2002).
 
-von Mering, et al. "Comparative Assessment of Large-scale Data Sets of Protein-protein Interactions." _Nature_ 417 (May 2002).
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Human Regulatory Networks
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Heckerman. "A Tutorial on Learning with Bayesian Networks." Microsoft Technical Report MSR-TR-95-06, 1996.
 
-Yeang, et al. "Physical Network Models." _Journal of Computational Biology_ 11, nos. 2-3 (2004): 243-263.
+Yeang, et al. "Physical Network Models." *Journal of Computational Biology* 11, nos. 2-3 (2004): 243-263.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Protein Networks
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Gavin, A. C., et al. "Functional Organization of the Yeast Proteome by Systematic Analysis of Protein Complexes." *Nature* 415, no. 6868 (2002): 141-7.
 
-Gavin, A. C., et al. "Functional Organization of the Yeast Proteome by Systematic Analysis of Protein Complexes." _Nature_ 415, no. 6868 (2002): 141-7.
+Tong, A. H., et al. "Global Mapping of the Yeast Genetic Interaction Network." *Science* 303, no. 5659 (2004): 808-13.
 
-Tong, A. H., et al. "Global Mapping of the Yeast Genetic Interaction Network." _Science_ 303, no. 5659 (2004): 808-13.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Causal Models
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Causal Bayesian Networks, Active Learning
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 From Biological Data to Biological Insight
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Modeling Transcriptional Regulation
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Arkin, Ross, and McAdams. "Stochastic Kinetic Analysis of Developmental Pathway Bifurcation in Phage Lambda-Infected Escherichia coli Cells." *Genetics* 149 (August 1998): 1633–1648.
 
-Arkin, Ross, and McAdams. "Stochastic Kinetic Analysis of Developmental Pathway Bifurcation in Phage Lambda-Infected Escherichia coli Cells." _Genetics_ 149 (August 1998): 1633–1648.
+Gilman, Arkin. "Genetic 'Code': Representations and Dynamic Models of Genetic Components and Networks." *Annu Rev Genomics Hum Genet* 3 (2002): 341–69.
 
-Gilman, Arkin. "Genetic 'Code': Representations and Dynamic Models of Genetic Components and Networks." _Annu Rev Genomics Hum Genet_ 3 (2002): 341–69.
+McAdams, Arkin. "It's A Noisy Business!: Gene Regulation at the Nanomolar Scale." *Trends in Genetics* 15 (1999): 65-69.
 
-McAdams, Arkin. "It's A Noisy Business!: Gene Regulation at the Nanomolar Scale." _Trends in Genetics_ 15 (1999): 65-69.
+———. "Simulation of Genetic Circuits." *Annu Rev Biophys Biomol Struct* 27 (1998): 199–224.
 
-———. "Simulation of Genetic Circuits." _Annu Rev Biophys Biomol Struct_ 27 (1998): 199–224.
+Gillespie. "Exact Stochastic Simulation of Coupled Chemical Reactions." *Journal of Physical Chemistry* 81, no. 25 (1977): 2340-2361.
 
-Gillespie. "Exact Stochastic Simulation of Coupled Chemical Reactions." _Journal of Physical Chemistry_ 81, no. 25 (1977): 2340-2361.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Dynamics
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

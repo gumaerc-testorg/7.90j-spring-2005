@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource covers: Simple motifs - analysis, Hyper-geometric distribution,
   Motif models - three estimation problems, Mixtures and the EM algorithm, and some
   problems related to the topic.'
-file: /ol-ocw-studio-app/courses/7-90j-computational-functional-genomics-spring-2005/bfacab59364b206c64dd792ae76c9aa0_lecture_3and4.pdf
+file: /courses/7-90j-computational-functional-genomics-spring-2005/bfacab59364b206c64dd792ae76c9aa0_lecture_3and4.pdf
 file_size: 160830
 file_type: application/pdf
 learning_resource_types:

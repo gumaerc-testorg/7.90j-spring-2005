@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource covers: Causal Bayesian Networks, Decision tree models,
   Automated Experiment Design (active learning).'
-file: /ol-ocw-studio-app/courses/7-90j-computational-functional-genomics-spring-2005/1d0c6d2cbcc44471422a9b52869fb95b_lecture_17.pdf
+file: /courses/7-90j-computational-functional-genomics-spring-2005/1d0c6d2cbcc44471422a9b52869fb95b_lecture_17.pdf
 file_size: 127310
 file_type: application/pdf
 learning_resource_types:

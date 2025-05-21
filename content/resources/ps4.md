@@ -4,7 +4,7 @@ description: This assignment contains 2 problems, one on "Quantization", and ano
   on "Parameter Learning and Model Comparison". The second problem in this problem
   set requires the use of the ?Bayes Net Toolbox,? a freely-available set of MATLAB
   functions written by Kevin Murphy.
-file: /ol-ocw-studio-app/courses/7-90j-computational-functional-genomics-spring-2005/da60fb6b7be8eb2f7c88908079796c1d_ps4.pdf
+file: /courses/7-90j-computational-functional-genomics-spring-2005/da60fb6b7be8eb2f7c88908079796c1d_ps4.pdf
 file_size: 100260
 file_type: application/pdf
 learning_resource_types:

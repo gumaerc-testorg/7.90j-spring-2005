@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student project report on "Spectral clustering for microrray data".
-file: /ol-ocw-studio-app/courses/7-90j-computational-functional-genomics-spring-2005/f57b5e07d25fbb902a337f7a58a202a4_spectral_cluster.pdf
+file: /courses/7-90j-computational-functional-genomics-spring-2005/f57b5e07d25fbb902a337f7a58a202a4_spectral_cluster.pdf
 file_size: 187078
 file_type: application/pdf
 learning_resource_types:

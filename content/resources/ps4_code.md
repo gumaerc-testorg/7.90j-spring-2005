@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting file containing codes and additional data for problem set
   4.
-file: /ol-ocw-studio-app/courses/7-90j-computational-functional-genomics-spring-2005/567d133ae7b8710dff54ba2aa444bdaf_ps4_code.zip
+file: /courses/7-90j-computational-functional-genomics-spring-2005/567d133ae7b8710dff54ba2aa444bdaf_ps4_code.zip
 file_size: 176188
 file_type: application/zip
 learning_resource_types:

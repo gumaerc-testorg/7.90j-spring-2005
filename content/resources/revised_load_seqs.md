@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file containing revised load sequences for problem set 2.
-file: /ol-ocw-studio-app/courses/7-90j-computational-functional-genomics-spring-2005/cdabeef0f4b9c0dd20294fa2a4df32e0_revised_load_seqs.m
+file: /courses/7-90j-computational-functional-genomics-spring-2005/cdabeef0f4b9c0dd20294fa2a4df32e0_revised_load_seqs.m
 file_size: 577
 file_type: text/plain
 learning_resource_types:

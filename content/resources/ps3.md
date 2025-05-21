@@ -5,7 +5,7 @@ description: This problem set reviews a simple maximum likelihood method to esti
   controls with known quantities. There is only one problem, but we expect an answer
   for each sentence or clause that begins with the words, "Write down..." Please include
   the full derivations of all work formulae written, not just the final answer.
-file: /ol-ocw-studio-app/courses/7-90j-computational-functional-genomics-spring-2005/5b006f07470c768c74968496a52c70b0_ps3.pdf
+file: /courses/7-90j-computational-functional-genomics-spring-2005/5b006f07470c768c74968496a52c70b0_ps3.pdf
 file_size: 47026
 file_type: application/pdf
 learning_resource_types:

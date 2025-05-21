@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource covers: Clustering, Hierarchical clustering, Mixture models
   and clustering, Mixture models and partial profiles, Latent processes and matrix
   decomposition, etc.'
-file: /ol-ocw-studio-app/courses/7-90j-computational-functional-genomics-spring-2005/2a973d6f56ecd5e7ad4b5577f84ad7a2_lecture_7.pdf
+file: /courses/7-90j-computational-functional-genomics-spring-2005/2a973d6f56ecd5e7ad4b5577f84ad7a2_lecture_7.pdf
 file_size: 107389
 file_type: application/pdf
 learning_resource_types:

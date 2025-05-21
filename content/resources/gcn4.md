@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a student project report on "Whole-genome Analysis of GCN4 Binding
   in S.cerevisiae".
-file: /ol-ocw-studio-app/courses/7-90j-computational-functional-genomics-spring-2005/0e49c7aa6f41f6dd843941c4302d53d1_gcn4.pdf
+file: /courses/7-90j-computational-functional-genomics-spring-2005/0e49c7aa6f41f6dd843941c4302d53d1_gcn4.pdf
 file_size: 343743
 file_type: application/pdf
 learning_resource_types:

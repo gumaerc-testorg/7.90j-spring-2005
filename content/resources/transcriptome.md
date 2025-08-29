@@ -2,7 +2,7 @@
 content_type: resource
 description: Student project report on "Modeling the Human Transcriptome using Factor
   Analysis".
-file: /courses/7-90j-computational-functional-genomics-spring-2005/8e21d51c5d06754b52d7b824f305f98e_transcriptome.pdf
+file: /ol-ocw-studio-app/courses/7-90j-computational-functional-genomics-spring-2005/8e21d51c5d06754b52d7b824f305f98e_transcriptome.pdf
 file_size: 94177
 file_type: application/pdf
 learning_resource_types:

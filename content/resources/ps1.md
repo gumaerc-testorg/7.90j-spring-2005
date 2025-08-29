@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 2 problem statements.
-file: /courses/7-90j-computational-functional-genomics-spring-2005/61d7a5c96baaac00e1f961763818e03f_ps1.pdf
+file: /ol-ocw-studio-app/courses/7-90j-computational-functional-genomics-spring-2005/61d7a5c96baaac00e1f961763818e03f_ps1.pdf
 file_size: 63226
 file_type: application/pdf
 learning_resource_types:

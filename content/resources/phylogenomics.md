@@ -2,7 +2,7 @@
 content_type: resource
 description: Student project report on "Using Phylogenomics to Predict Novel Fungal
   Pathogenicity Genes".
-file: /courses/7-90j-computational-functional-genomics-spring-2005/7d0f0606ffa019d4bedf6bb5bb46d1cb_phylogenomics.pdf
+file: /ol-ocw-studio-app/courses/7-90j-computational-functional-genomics-spring-2005/7d0f0606ffa019d4bedf6bb5bb46d1cb_phylogenomics.pdf
 file_size: 211571
 file_type: application/pdf
 learning_resource_types:

@@ -15,18 +15,18 @@ video_metadata:
 Related Links
 -------------
 
-[UCSC Genome Browser](http://genome.ucsc.edu/)
+{{% resource_link "c30ecbfd-cc6d-42ff-bd83-11eaa8480128" "UCSC Genome Browser" %}}
 
-[NCBI](http://www.ncbi.nlm.nih.gov/)
+{{% resource_link "0d631520-6572-4536-a445-8e31cb20733c" "NCBI" %}}
 
-[Repeat Sequences](http://neuromuscular.wustl.edu/mother/dnarep.htm)
+{{% resource_link "cf0f4b84-46eb-452d-834f-3903de5cbec8" "Repeat Sequences" %}}
 
-[NIH Stem Cell Information Home Page](http://stemcells.nih.gov/)
+{{% resource_link "ab38a8f2-ae68-4fb8-8700-3a9a721f53fb" "NIH Stem Cell Information Home Page" %}}
 
-[RepeatMasker server](http://www.repeatmasker.org/)
+{{% resource_link "493ec2d3-65b4-41d0-afd3-95673e20baff" "RepeatMasker server" %}}
 
-[A Practical Introduction to MATLAB®](http://www.math.mtu.edu/~msgocken/intro/intro.html), Mark S. Gockenbach, Michigan Tech
+{{% resource_link "6c53a56c-1c5d-4e1e-9c68-603b3d469b67" "A Practical Introduction to MATLAB®" %}}, Mark S. Gockenbach, Michigan Tech
 
-[MATLAB® Primer](http://math.ucsd.edu/%7Edriver/21d-s99/matlab-primer.html), Kermit Sigmon, UF
+{{% resource_link "e2e8d735-1209-45aa-85cd-91b2163ba44f" "MATLAB® Primer" %}}, Kermit Sigmon, UF
 
-[MEME/MAST Online Tools](http://web.mit.edu/meme_v4.11.4/share/doc/mast.html)
+{{% resource_link "375fce97-3a38-438a-871c-345cea845cd5" "MEME/MAST Online Tools" %}}
